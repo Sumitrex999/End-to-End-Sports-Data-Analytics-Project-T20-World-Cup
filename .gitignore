@@ -1,0 +1,9 @@
+# Ignore videos
+*.mp4
+
+# Ignore zip archives
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
